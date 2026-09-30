@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align = "center"> Hi there👋 I am Yvonne ˚⊱🪷⊰˚ </h1>
+<h5 align = "center"> Computer Science Student at Batangas State University TNEU </h5> 
+
+
+
 
 <!--
 **maryyvonnecarandang-dev/maryyvonnecarandang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
