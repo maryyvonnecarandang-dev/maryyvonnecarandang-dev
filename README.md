@@ -1,15 +1,16 @@
 <h1 align = "center"> ˚⊱🪷⊰˚  Hi, I am Yvonne  ˚⊱🪷⊰˚ </h1>
 <h3 align = "center"> ⟡ 💻 Computer Science Student | 🌷 Aspiring Developer | 🤖 Robotics Enthusiast ⟡ </h3> 
 
----
+
 <br>
 
-## ✨Welcome to my little corner of GitHub! ♡
-⟡ I'm **Mary Yvonne Carandang**, a Computer Science student who enjoys learning, building, and exploring the world of technology. \
+<h2 align = "center"> ✨Welcome to my little corner of GitHub! ♡✨ </h2>
+
+⟡ I'm **Mary Yvonne Carandang**, a Computer Science student at **Batangas State University who enjoys learning, building, and exploring the world of technology.
+
 ⟡ I'm currently focused on strengthening my programming fundamentals, exploring different languages, and turning what I learn into small projects and practical applications.
  
 ---
-<br>
 
 ## 🌸 About Me
 
@@ -20,7 +21,6 @@
 - 📚 Open for internships, collaborations, and learning opportunities
 
 ---
-<br>
 
 ## 💻 Languages
 
@@ -30,7 +30,6 @@ Currently learning and working with:
 </p>
 
 ---
-<br>
 
 ## 🚀 Featured Projects
 ### 🚚 DeliverEase: Food Delivery Management System
@@ -44,7 +43,6 @@ It provides a simple yet effective way to record prescriptions, track intake his
 and view a summary of the user’s medication schedule
 
 ---
-<br>
 
 ## 🎯 Goals
 - 🦾 Strengthen my programming skills
