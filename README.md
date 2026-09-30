@@ -51,6 +51,13 @@ and view a summary of the user’s medication schedule
 - 🔎 Explore web graphic designing
 - 🌐 Grow my network
 - ❤️ Be better than I was yesterday
+
+---
+
+### Thanks for stopping by my GitHub! 💖
+Feel free to explore my repositories and follow along with my coding journey. 💗
+
+### — Yvonne ♡🎀
 <!--
 **maryyvonnecarandang-dev/maryyvonnecarandang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
