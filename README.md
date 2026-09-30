@@ -1,7 +1,10 @@
-<h1 align = "center"> Hi there👋 I am Yvonne ˚⊱🪷⊰˚ </h1>
-<h3 align = "center"> ⟡ Computer Science Student at Batangas State University TNEU ⟡ </h3> 
+<h1 align = "center"> ˚⊱🪷⊰˚Hi, I am Yvonne ˚⊱🪷⊰˚ </h1>
+<h3 align = "center"> ⟡ 💻 Computer Science Student | 🌷 Aspiring Developer | 🤖 Robotics Enthusiast ⟡ </h3>  
 
+## Welcome to my little corner of GitHub! ♡
+I'm **Mary Yvonne Carandang**, a Computer Science student who enjoys learning, building, and exploring the world of technology. ✨
 
+I'm currently focused on strengthening my programming fundamentals and turning what I learn into small projects and practical applications. 🌱
 
 
 <!--
