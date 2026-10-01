@@ -44,6 +44,16 @@ and view a summary of the user’s medication schedule
 
 ---
 
+## 🌱 Currently Learning
+
+- 🐍 Improving my Python fundamentals
+- ☕ Learning Java and Object-Oriented Programming
+- 🌐 Building websites with HTML & CSS
+- 🧠 Strengthening problem-solving and programming logic
+- 💻 Learning how to build better projects
+
+---
+
 ## 🎯 Goals
 - 🦾 Strengthen my programming skills
 - 🖥️ Build more personal projects
