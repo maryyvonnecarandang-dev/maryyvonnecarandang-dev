@@ -63,8 +63,21 @@ and view a summary of the user’s medication schedule
 - ❤️ Be better than I was yesterday
 
 ---
+## ₊˚ʚ 🎀 ₊˚✧ ﾟ. GitHub Stats
 
-## 🎀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maryyvonnecarandang-dev&show_icons=true&hide_border=true&bg_color=FFF0F7&title_color=C77DFF&text_color=8E5A9E&icon_color=FF69B4&border_radius=15&include_all_commits=true&count_private=true" width="380" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryyvonnecarandang-dev&layout=compact&hide_border=true&bg_color=F4ECFF&title_color=C77DFF&text_color=8E5A9E&icon_color=FF69B4&border_radius=15" width="300" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maryyvonnecarandang-dev&hide_border=true&background=FFF0F7&ring=C77DFF&fire=FF69B4&currStreakLabel=C77DFF&sideLabels=8E5A9E&currStreakNum=FF69B4&sideNums=FF69B4&dates=9B7EAE&border_radius=15" width="350" height="160"/>
+</p>
+
+<p align="center">
+  <sub>♡₊˚ ✧ My little coding journey ✧ ˚₊♡</sub>
+</p>
+<!--## 🎀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maryyvonnecarandang-dev&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="180"/>
@@ -74,7 +87,7 @@ and view a summary of the user’s medication schedule
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=maryyvonnecarandang-dev&theme=rose_pine&hide_border=true" />
-</p>
+</p> -->
 
 <h2 align="center">
   🎀 Thanks for stopping by! 🎀
