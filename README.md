@@ -68,6 +68,28 @@ and view a summary of the user’s medication schedule
 Feel free to explore my repositories and follow along with my coding journey. 💗
 
 ### — Yvonne ♡🎀
+
+## 🎀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maryyvonnecarandang-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryyvonnecarandang-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+
+<p align="center">
+  🎀 Thanks for stopping by! 🎀
+  <br>
+  <sub>♡ Always learning • Always building • Always growing ♡</sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maryyvonnecarandang-dev&style=for-the-badge&color=ffb6c1&label=PROFILE+VIEWS" />
+</p>
 <!--
 **maryyvonnecarandang-dev/maryyvonnecarandang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
