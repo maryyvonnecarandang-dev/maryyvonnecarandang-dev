@@ -69,8 +69,8 @@ and view a summary of the user’s medication schedule
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maryyvonnecarandang-dev&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="180"/>
  
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryyvonnecarandang-dev&layout=compact&theme=rose_pine&hide_border=true" height="180"/>
-</p> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryyvonnecarandang-dev&layout=compact&theme=rose_pine&hide_border=true" height="180"/>
+</p> 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=maryyvonnecarandang-dev&theme=rose_pine&hide_border=true" />
