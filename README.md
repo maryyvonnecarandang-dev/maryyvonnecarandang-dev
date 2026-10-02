@@ -67,14 +67,14 @@ and view a summary of the user’s medication schedule
 ## 🎀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryyvonnecarandang-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryyvonnecarandang-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maryyvonnecarandang-dev&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="180"/>
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryyvonnecarandang-dev&layout=compact&theme=rose_pine&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=maryyvonnecarandang-dev&theme=rose_pine&hide_border=true" />
 </p>
-
 
 <h2 align="center">
   🎀 Thanks for stopping by! 🎀
