@@ -63,7 +63,7 @@ and view a summary of the user’s medication schedule
 - ❤️ Be better than I was yesterday
 
 ---
-## ₊˚ʚ 🎀 ₊˚✧ ﾟ. GitHub Stats
+## 🎀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maryyvonnecarandang-dev&show_icons=true&hide_border=true&bg_color=FFF0F7&title_color=C77DFF&text_color=8E5A9E&icon_color=FF69B4&border_radius=15&include_all_commits=true&count_private=true" width="380" height="160"/>
