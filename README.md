@@ -64,11 +64,6 @@ and view a summary of the user’s medication schedule
 
 ---
 
-### Thanks for stopping by my GitHub! 💖
-Feel free to explore my repositories and follow along with my coding journey. 💗
-
-### — Yvonne ♡🎀
-
 ## 🎀 GitHub Stats
 
 <p align="center">
@@ -81,11 +76,11 @@ Feel free to explore my repositories and follow along with my coding journey. �
 </p>
 
 
-<p align="center">
+<h2 align="center">
   🎀 Thanks for stopping by! 🎀
   <br>
   <sub>♡ Always learning • Always building • Always growing ♡</sub>
-</p>
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maryyvonnecarandang-dev&style=for-the-badge&color=ffb6c1&label=PROFILE+VIEWS" />
