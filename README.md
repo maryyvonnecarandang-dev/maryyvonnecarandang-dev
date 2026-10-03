@@ -6,7 +6,7 @@
 
 <h2 align = "center"> ✨Welcome to my little corner of GitHub! ♡✨ </h2>
 
-⟡ I'm **Mary Yvonne Carandang**, a Computer Science student at **Batangas State University who enjoys learning, building, and exploring the world of technology.
+⟡ I'm **Mary Yvonne Carandang**, a Computer Science student at **Batangas State University** who enjoys learning, building, and exploring the world of technology.
 
 ⟡ I'm currently focused on strengthening my programming fundamentals, exploring different languages, and turning what I learn into small projects and practical applications.
  
