@@ -1,4 +1,4 @@
-<h1 align = "center"> ˚⊱🪷⊰˚  Hi, I am Yvonne  ˚⊱🪷⊰˚ </h1>
+<h1 align = "center"> ˚⊱🪷⊰˚  Hi, I am Yvonne!  ˚⊱🪷⊰˚ </h1>
 <h3 align = "center"> ⟡ 💻 Computer Science Student | 🌷 Aspiring Developer | 🤖 Robotics Enthusiast ⟡ </h3> 
 
 
