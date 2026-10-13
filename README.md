@@ -77,7 +77,7 @@ and view a summary of the user’s medication schedule
 </p>
 
 <h3 align="center">
-  <sub>♡₊˚ ✧ My little coding journey ✧ ˚₊♡</sub>
+  <sub>♡₊˚ ✧ My little coding journey :) ✧ ˚₊♡</sub>
 </h3>
 
 
